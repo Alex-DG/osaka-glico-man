@@ -3,6 +3,7 @@
 ## Description
 
 - Image tracking using the osaka glico man
+- [Live version](https://osaka-glico-man.vercel.app/)
 
 <img width="240" alt="Screenshot 2023-01-10 at 8 47 30 2" src="https://user-images.githubusercontent.com/4311684/211444511-1cd4b566-e059-417e-8b7d-facd4e7e93fd.png">
 
