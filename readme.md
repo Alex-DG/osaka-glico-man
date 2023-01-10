@@ -6,6 +6,9 @@
 
 <img width="240" alt="Screenshot 2023-01-10 at 8 47 30 2" src="https://user-images.githubusercontent.com/4311684/211444511-1cd4b566-e059-417e-8b7d-facd4e7e93fd.png">
 
+## Demo
+
+https://user-images.githubusercontent.com/4311684/211445309-39a5266d-1405-4f12-8fa0-0b0e892a3b39.mp4
 
 
 ## Setup
