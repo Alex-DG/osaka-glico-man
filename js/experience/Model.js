@@ -1,7 +1,7 @@
 import { FBXLoader } from 'three/examples/jsm/loaders/FBXLoader'
 import { gsap } from 'gsap'
 
-import modelSrc from '../../assets/Running (3).fbx'
+import modelSrc from '../../assets/Running.fbx'
 import LoadingManager from './LoadingManager'
 
 class _Model {
