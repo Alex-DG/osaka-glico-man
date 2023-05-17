@@ -23,24 +23,6 @@ export const initWorldPipelineModule = () => {
     if (detail?.name === 'osaka-glico-man') {
       Model.play({ detail })
     }
-
-    // When the image target named 'model-target' is detected, show 3D model.
-    // This string must match the name of the image target uploaded to 8th Wall.
-    // if (detail.name === 'model-target') {
-    //   model.position.copy(detail.position)
-    //   model.quaternion.copy(detail.rotation)
-    //   model.scale.set(detail.scale, detail.scale, detail.scale)
-    //   model.visible = true
-    // }
-    // // When the image target named 'video-target' is detected, play video.
-    // // This string must match the name of the image target uploaded to 8th Wall.
-    // if (detail.name === 'video-target') {
-    //   videoObj.position.copy(detail.position)
-    //   videoObj.quaternion.copy(detail.rotation)
-    //   videoObj.scale.set(detail.scale, detail.scale, detail.scale)
-    //   videoObj.visible = true
-    //   video.play()
-    // }
   }
 
   const hideTarget = () => {
